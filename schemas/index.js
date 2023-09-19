@@ -1,1 +1,5 @@
-export const schemaTypes = []
+import courses from "./courses";
+
+export const schemaTypes = [
+    courses
+]
