@@ -1,4 +1,4 @@
-// schemas/pet.js
+
 export default {
     name: 'courses',
     type: 'document',
